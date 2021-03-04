@@ -7,4 +7,6 @@ This repository contains all necessary resources to repeat our research on Seque
 4.	R Code folder contains R scripts used to run experiments. 
 
 Please cite as:
-Bródka, P., Jankowski, J., & Michalski, R. (2020). Sequential seeding in multilayer networks. arXiv preprint arXiv:2009.05335.
+Bródka, P., Jankowski, J., & Michalski, R. (2021). Sequential seeding in multilayer networks. Chaos 31 doi: 10.1063/5.0023427
+
+For an example on how to run the code please see https://www.codeocean.com/ for “Sequential Seeding in Multilayer Networks” (2021).
