@@ -10,3 +10,5 @@ Please cite as:
 Bródka, P., Jankowski, J., & Michalski, R. (2021). Sequential seeding in multilayer networks. Chaos 31 doi: 10.1063/5.0023427
 
 For an example on how to run the code please see https://www.codeocean.com/ for “Sequential Seeding in Multilayer Networks” (2021).
+
+<a href="https://zenodo.org/badge/latestdoi/283218343"><img src="https://zenodo.org/badge/283218343.svg" alt="DOI"></a>
